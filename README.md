@@ -1,4 +1,6 @@
-## Hi there 👋
+## Longtime sysadmin and scripter, but brand new at this whole Github thing 🤫
+## Currently working on simple ASH and PowerShell scripts for the [Kingdom of Loathing](https://www.kingdomofloathing.com/) and the outstanding [KoLmafia](https://github.com/kolmafia/kolmafia).
+## Feel free to suggest any new ideas! ☝
 
 <!--
 **jimdigriz211/jimdigriz211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
